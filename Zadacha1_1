@@ -1,0 +1,8 @@
+Begin
+A;
+S:=0; n:=1;
+S=S+n;
+If S>A then 
+S,n ;
+Else n=n+1  Mi:S=S+n ;
+End.
