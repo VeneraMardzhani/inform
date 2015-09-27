@@ -1,0 +1,14 @@
+Простое число.
+
+a,b,c
+Begin
+(Введи число)
+(a);
+c:=0;
+for a:=2 to b div2 do
+   if b mod a=0 then
+   c:=c+1;
+   if c=0 then
+(простое)
+    else (не простое);
+ End.
